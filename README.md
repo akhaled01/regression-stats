@@ -1,9 +1,11 @@
-# Linear-Stats
+# Regression-Stats
 
 **This project aims at funding the linear regression line and the pearson correlation
 coefficient**
 
-Language used: **python**
+Language used: **python** 
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 
 Note that special funcs and syntax were used:
 
@@ -27,4 +29,4 @@ Formula for pearson correlation coefficient:
 
 ![Pearson](https://editor.analyticsvidhya.com/uploads/39170Formula.JPG)
 
-**Done By akhaled**
+**Done By akhaled01**
