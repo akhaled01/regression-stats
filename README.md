@@ -1,7 +1,7 @@
 # Regression-Stats
 
-**This project aims at funding the linear regression line and the pearson correlation
-coefficient**
+**This project aims at implementing the linear regression line and the pearson correlation
+coefficient for statistical analysis**
 
 Language used: **python** 
 
